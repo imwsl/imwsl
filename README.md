@@ -8,7 +8,7 @@
 
 **Tech Stack**
 
-- Objective-C/Swift/UIKit/SwiftUI
-- PHP/Laravel
-- JavaScript/Typescript/React.js/Vue.js
+- 📱 Objective-C/Swift/UIKit/SwiftUI
+- 🚀 PHP/Laravel
+- 💻 JavaScript/Typescript/React.js/Vue.js
 
